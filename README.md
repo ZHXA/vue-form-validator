@@ -1,4 +1,4 @@
-# from-validator
+# vue-from-validator
 
 ## Project setup
 ```
